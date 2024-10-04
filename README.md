@@ -22,7 +22,7 @@ The Bike Rental System provides a simple interface for managing bike rentals. Cu
 
 2. Ensure you have Python 3.x installed.  
 
-3. Install required dependencies (if any):
+3. Install required dependencies:
 
     pip install -r requirements.txt
 
