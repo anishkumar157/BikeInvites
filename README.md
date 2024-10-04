@@ -1,13 +1,13 @@
 ## Overview
 
-The Bike Rental System provides a simple interface for managing bike rentals. Customers can rent bikes for a specific time period and return them later. The system calculates the rental cost based on the duration of the rental and offers family discounts for group rentals.
+The Bike Rental System provides a simple interface for managing bike rentals. Customers can rent bikes for a specific time period and return them later. And people can take bikes for rent and also they can give there vehicle for rent through this web site.
 
 ## Features
 
 - Rent bikes on an hourly, daily, or weekly basis.
 - Track rental start and end times for accurate billing.
 - Easy-to-use interface for both customers and store owners.
-- Peaple can take bikes for rent and also they can give there vehicle for rent through this web site.
+- People can take bikes for rent and also they can give there vehicle for rent through this web site.
   
 ## Requirements
 
